@@ -1,5 +1,4 @@
-A Java based cron scheduler, in essence a simpler version of the Quartz Scheduler. But the scheduler will centre 
-around executing Java classes with predefined or dynamic chaining.
+A Java based cron scheduler, in essence a simpler version of the Quartz Scheduler. But the scheduler will centre around executing Java classes with predefined or dynamic chaining.
 
 e.g.
 
