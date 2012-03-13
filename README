@@ -1,7 +1,9 @@
 A Java based cron scheduler, in essence a simpler version of the Quartz Scheduler. But the scheduler will centre around executing Java classes with predefined or dynamic chaining.
 
-e.g.
+For Example:
 
 Step 1) Running a Java class 
 Step 2) Waiting For Completion 
 Step 3) Then Sending an email depending on results from step 1
+
+
